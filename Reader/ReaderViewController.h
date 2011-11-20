@@ -10,4 +10,6 @@
 
 @interface ReaderViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITableView *listtable;
+
 @end

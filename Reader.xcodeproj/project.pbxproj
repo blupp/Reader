@@ -23,15 +23,15 @@
 		5C145528147592E10020100E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5C14552A147592E10020100E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5C14552C147592E10020100E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5C145530147592E10020100E /* Reader-Info.plist */ = {isa = PBXFileReference; path = "Reader-Info.plist"; sourceTree = "<group>"; };
+		5C145530147592E10020100E /* Reader-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Reader-Info.plist"; sourceTree = "<group>"; };
 		5C145532147592E10020100E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5C145534147592E10020100E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5C145536147592E10020100E /* Reader-Prefix.pch */ = {isa = PBXFileReference; path = "Reader-Prefix.pch"; sourceTree = "<group>"; };
-		5C145537147592E10020100E /* ReaderAppDelegate.h */ = {isa = PBXFileReference; path = ReaderAppDelegate.h; sourceTree = "<group>"; };
+		5C145536147592E10020100E /* Reader-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Reader-Prefix.pch"; sourceTree = "<group>"; };
+		5C145537147592E10020100E /* ReaderAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReaderAppDelegate.h; sourceTree = "<group>"; };
 		5C145538147592E10020100E /* ReaderAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReaderAppDelegate.m; sourceTree = "<group>"; };
 		5C14553B147592E10020100E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		5C14553E147592E10020100E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		5C145540147592E10020100E /* ReaderViewController.h */ = {isa = PBXFileReference; path = ReaderViewController.h; sourceTree = "<group>"; };
+		5C145540147592E10020100E /* ReaderViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReaderViewController.h; sourceTree = "<group>"; };
 		5C145541147592E10020100E /* ReaderViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReaderViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

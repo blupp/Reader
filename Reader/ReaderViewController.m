@@ -9,6 +9,7 @@
 #import "ReaderViewController.h"
 
 @implementation ReaderViewController
+@synthesize listtable;
 
 - (void)didReceiveMemoryWarning
 {
@@ -26,6 +27,7 @@
 
 - (void)viewDidUnload
 {
+    [self setListtable:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
